@@ -76,6 +76,8 @@
         unsweeten
         raspberry
         peach
+        mango
+        wathermelon
     c. Milk
         regular
         chocolate
@@ -89,6 +91,10 @@
         bottled
         sparkle 
         flavored sparkle water
+            strawberry
+            cherry
+            peach
+            mango
     f. Wine
         red
         white
