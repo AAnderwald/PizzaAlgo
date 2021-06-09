@@ -9,7 +9,7 @@
     g. Little Caesars
     h. Red Brick Tavern
     i. Marco's Pizza
-2. Decide which type of pizza to order
+3. Decide which type of pizza to order
     a. decide vegetables
         mushroom
         tomatoes
@@ -30,19 +30,19 @@
         ham
         beef
         pork
-3. Decide type of crust 
+4. Decide type of crust 
     a. thin
     b. thick
     c. New York style
     d. Chicago style
     e. stuffed crust
-4. Decide crust flavor
+5. Decide crust flavor
     a. no crust flavor
     b. garlic buttery blend
     c. toasted parmesan
     d. garlic and parmesan
     e. mixed seasoning
-5. Decide Sauce
+6. Decide Sauce
     a. classic marinara
     b. creamy garlic parmesan
     c. barbeque
@@ -50,7 +50,7 @@
     e. sweet marinara
     f. pesto
     g. pink sauce
-6. Decide type of drink
+7. Decide type of drink
     a. soda
         diet coke
         coke
@@ -72,7 +72,7 @@
         sweet
         diet
         strawberry
-7. Decide if want salad
+8. Decide if want salad
     a. types of salads
         buffalo chicken salad
         Caesars
@@ -83,7 +83,7 @@
         ranch
         Caesars
         Italian
-8. Decide if want wings
+9. Decide if want wings
     a. traditional
         buffalo hot
         garlic parmesan
@@ -114,11 +114,11 @@
         blue cheese
         ranch
         garlic
-9. Decide if want sides
+10. Decide if want sides
     a. bread sticks
     b. cheese sticks
     c. fried pickles
-10. Decide if want dessert
+11. Decide if want dessert
     a. chocolate chip cookie
     b. sugar cookie
     c. brownie
