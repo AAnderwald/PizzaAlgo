@@ -95,6 +95,7 @@
             cherry
             peach
             mango
+            watermelon
     f. Wine
         red
         white
