@@ -99,7 +99,7 @@
         red
         white
         blush
-        Moscat wine
+        Moscato wine
         champagne
         sparkling cider for kids
     g. Beer  
